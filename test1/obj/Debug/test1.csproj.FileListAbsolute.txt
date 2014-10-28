@@ -1,0 +1,84 @@
+C:\visual studio 2013\test\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\visual studio 2013\test\test1\test1\obj\Debug\test1.Form1.resources
+C:\visual studio 2013\test\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+C:\visual studio 2013\test\test\test1\test1\bin\Debug\test1.exe.config
+C:\visual studio 2013\test\test\test1\test1\obj\Debug\test1.exe
+C:\visual studio 2013\test\test\test1\test1\obj\Debug\test1.pdb
+C:\visual studio 2013\test\test1\test1\bin\Debug\Voronoi.exe.config
+C:\visual studio 2013\test\test1\test1\bin\Debug\Voronoi.exe
+C:\visual studio 2013\test\test1\test1\bin\Debug\Voronoi.pdb
+C:\visual studio 2013\test\test1\test1\obj\Debug\Voronoi.Properties.Resources.resources
+C:\visual studio 2013\test\test1\test1\obj\Debug\Voronoi.exe
+C:\visual studio 2013\test\test1\test1\obj\Debug\Voronoi.pdb
+C:\Users\USER\Desktop\test\test1\test1\bin\Debug\Voronoi.exe.config
+C:\Users\USER\Desktop\test\test1\test1\obj\Debug\Voronoi.exe
+C:\Users\USER\Desktop\test\test1\test1\obj\Debug\Voronoi.pdb
+C:\Users\USER\Desktop\test\test1\test1\bin\Debug\Voronoi.exe
+C:\Users\USER\Desktop\test\test1\test1\bin\Debug\Voronoi.pdb
+C:\Users\USER\Desktop\test\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\test\test1\test1\obj\Debug\test1.Form1.resources
+C:\Users\USER\Desktop\test\test1\test1\obj\Debug\Voronoi.Properties.Resources.resources
+C:\Users\USER\Desktop\test\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+E:\Dropbox\test\test1\test1\bin\Debug\Voronoi.exe.config
+E:\Dropbox\test\test1\test1\obj\Debug\Voronoi.exe
+E:\Dropbox\test\test1\test1\obj\Debug\Voronoi.pdb
+E:\Dropbox\test\test1\test1\bin\Debug\Voronoi.exe
+E:\Dropbox\test\test1\test1\bin\Debug\Voronoi.pdb
+E:\Dropbox\test\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+E:\Dropbox\test\test1\test1\obj\Debug\test1.Form1.resources
+E:\Dropbox\test\test1\test1\obj\Debug\Voronoi.Properties.Resources.resources
+E:\Dropbox\test\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+D:\Dropbox\test\test1\test1\bin\Debug\Voronoi.exe.config
+D:\Dropbox\test\test1\test1\obj\Debug\Voronoi.exe
+D:\Dropbox\test\test1\test1\obj\Debug\Voronoi.pdb
+C:\Dropbox\test\test1\test1\bin\Debug\Voronoi.exe.config
+C:\Dropbox\test\test1\test1\obj\Debug\Voronoi.exe
+C:\Dropbox\test\test1\test1\obj\Debug\Voronoi.pdb
+C:\Dropbox\test\test1\test1\bin\Debug\Voronoi.exe
+C:\Dropbox\test\test1\test1\bin\Debug\Voronoi.pdb
+C:\Dropbox\test\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Dropbox\test\test1\test1\obj\Debug\test1.Form1.resources
+C:\Dropbox\test\test1\test1\obj\Debug\Voronoi.Properties.Resources.resources
+C:\Dropbox\test\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+D:\Dropbox\test\test1\test1\bin\Debug\Voronoi.exe
+D:\Dropbox\test\test1\test1\bin\Debug\Voronoi.pdb
+D:\Dropbox\test\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+D:\Dropbox\test\test1\test1\obj\Debug\test1.Form1.resources
+D:\Dropbox\test\test1\test1\obj\Debug\Voronoi.Properties.Resources.resources
+D:\Dropbox\test\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+D:\Dropbox\test1\test1\bin\Debug\Voronoi.exe.config
+D:\Dropbox\test1\test1\obj\Debug\Voronoi.exe
+D:\Dropbox\test1\test1\obj\Debug\Voronoi.pdb
+D:\Dropbox\test1\test1\bin\Debug\Voronoi.exe
+D:\Dropbox\test1\test1\bin\Debug\Voronoi.pdb
+D:\Dropbox\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+D:\Dropbox\test1\test1\obj\Debug\Voronoi.Properties.Resources.resources
+D:\Dropbox\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+E:\Dropbox\test1\test1\bin\Debug\Voronoi.exe.config
+E:\Dropbox\test1\test1\obj\Debug\Voronoi.exe
+E:\Dropbox\test1\test1\obj\Debug\Voronoi.pdb
+E:\Dropbox\test1\test1\bin\Debug\Voronoi.exe
+E:\Dropbox\test1\test1\bin\Debug\Voronoi.pdb
+E:\Dropbox\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+E:\Dropbox\test1\test1\obj\Debug\Voronoi.Properties.Resources.resources
+E:\Dropbox\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+E:\Dropbox\test1\test1\obj\Debug\Voronoi.Form1.resources
+C:\Dropbox\test1\test1\bin\Debug\Voronoi.exe.config
+C:\Dropbox\test1\test1\obj\Debug\Voronoi.exe
+C:\Dropbox\test1\test1\obj\Debug\Voronoi.pdb
+C:\Dropbox\test1\test1\bin\Debug\Voronoi.exe
+C:\Dropbox\test1\test1\bin\Debug\Voronoi.pdb
+C:\Dropbox\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Dropbox\test1\test1\obj\Debug\Voronoi.Form1.resources
+C:\Dropbox\test1\test1\obj\Debug\Voronoi.Properties.Resources.resources
+C:\Dropbox\test1\test1\obj\Debug\test1.csproj.GenerateResource.Cache
+D:\Dropbox\test1\test1\obj\Debug\Voronoi.Form1.resources
+C:\Dropbox\碩班課程\演算法\voronoi\test1\bin\Debug\Voronoi.exe.config
+C:\Dropbox\碩班課程\演算法\voronoi\test1\obj\Debug\Voronoi.exe
+C:\Dropbox\碩班課程\演算法\voronoi\test1\obj\Debug\Voronoi.pdb
+C:\Dropbox\碩班課程\演算法\voronoi\test1\bin\Debug\Voronoi.exe
+C:\Dropbox\碩班課程\演算法\voronoi\test1\bin\Debug\Voronoi.pdb
+C:\Dropbox\碩班課程\演算法\voronoi\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+C:\Dropbox\碩班課程\演算法\voronoi\test1\obj\Debug\Voronoi.Form1.resources
+C:\Dropbox\碩班課程\演算法\voronoi\test1\obj\Debug\Voronoi.Properties.Resources.resources
+C:\Dropbox\碩班課程\演算法\voronoi\test1\obj\Debug\test1.csproj.GenerateResource.Cache
